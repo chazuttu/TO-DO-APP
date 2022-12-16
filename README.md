@@ -6,7 +6,7 @@
 - API End points  
 
 ### QuickStart
-- Create an Virtual Environment
+- Create Virtual Environment : venv/scripts/activate
 - Install all the dependencies 
  
   pip install -r requirements.txt
